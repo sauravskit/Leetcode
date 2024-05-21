@@ -1,0 +1,14 @@
+class Solution {
+    public int majorityElement(int[] nums) {
+        int n =(nums.length)/2;
+        Map<Integer,Integer> temp= new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            temp.put(nums[i],temp.getOrDefault(nums[i], 0) + 1);
+        }
+        
+        for(Map.Entry<Integer,Integer> entry: temp.entrySet()){
+            if(entry.getValue()>n) return entry.getKey();
+        }
+        return 0;
+    }
+}
