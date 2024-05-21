@@ -42,4 +42,5 @@
 <p>&nbsp;</p>
 <p><b data-stringify-type="bold">Follow-up:&nbsp;</b>If the string data type is mutable in your language, can&nbsp;you solve it&nbsp;<b data-stringify-type="bold">in-place</b>&nbsp;with&nbsp;<code data-stringify-type="code">O(1)</code>&nbsp;extra space?</p>
 
-<p><strong class="Using subarray">Intitution- start from the 0th index of string usinf two pointer and extract the individual word subarray and add it to new string  3:</strong></p>
+<p><strong class="Using subarray">Intitution Using subarray- start from the 0th index of string usinf two pointer and extract the individual word subarray and add it to new string  3:</strong></p>
+<p><strong class="Using subarray">Intitution using split and trim  - The intuition behind this solution is to split the input string into individual words, reverse their order, and then concatenate them back together with a single space between each word.  3:</strong></p>
