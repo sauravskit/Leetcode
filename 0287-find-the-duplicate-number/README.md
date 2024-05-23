@@ -43,7 +43,9 @@
 	<li>Can you solve the problem in linear runtime complexity?</li>
 </ul>
 -----------------------------------------------------------------Concept----------------------------------------------------------
-<ul>
+<ul>	METHODS CAN BE USED TO SOLVE ABOVE PROBLEM :-
 	<li>Floyd cycle detection</li>
 	<li>also can be done using set and map</li>
+	<li>binary search</li>
+	<li>bit manipulation</li>
 </ul>
