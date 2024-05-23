@@ -42,8 +42,8 @@
 	<li>How can we prove that at least one duplicate number must exist in <code>nums</code>?</li>
 	<li>Can you solve the problem in linear runtime complexity?</li>
 </ul>
------------------------------------------------------------------Concept-------------------------------
+-----------------------------------------------------------------Concept----------------------------------------------------------
 <ul>
-	<li>How can we prove that at least one duplicate number must exist in <code>nums</code>?</li>
-	<li>Can you solve the problem in linear runtime complexity?</li>
+	<li>Floyd cycle detection</li>
+	<li>also can be done using set and map</li>
 </ul>
