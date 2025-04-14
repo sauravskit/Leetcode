@@ -1,0 +1,23 @@
+HOW TO ITERRATE A HASHMAP
+--------
+for (Map.Entry<String, Integer> entry : map.entrySet()) {
+    System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
+}
+----------
+for (String key : map.keySet()) {
+    System.out.println("Key: " + key + ", Value: " + map.get(key));
+}
+-------------
+for (int value : map.values()) {
+    System.out.println("Value: " + value);
+}
+-----------------
+map.forEach((key, value) -> {
+    System.out.println("Key: " + key + ", Value: " + value);
+});
+
+-----------------------
+Method	        Returns	                           Use when...
+keySet()	      Set<K>	                        You just need the keys
+entrySet()	    Set<Map.Entry<K, V>>	         You need both key and value
+values()	      Collection<V>	                  You only need the values
