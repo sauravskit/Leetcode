@@ -1,11 +1,24 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-         char[] sChars = s.toCharArray();
-        char[] tChars = t.toCharArray();
+        int[] count = new int[26];
         
-        Arrays.sort(sChars);
-        Arrays.sort(tChars);
+        // Count the frequency of characters in string s
+        for (char x : s.toCharArray()) {
+            count[x - 'a']++;
+        }
         
-        return Arrays.equals(sChars, tChars);
+        // Decrement the frequency of characters in string t
+        for (char x : t.toCharArray()) {
+            count[x - 'a']--;
+        }
+        
+        // Check if any character has non-zero frequency
+        for (int val : count) {
+            if (val != 0) {
+                return false;
+            }
+        }
+        
+        return true;
     }
 }
