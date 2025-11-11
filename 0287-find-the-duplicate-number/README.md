@@ -39,7 +39,8 @@ How can we prove that at least one duplicate number must exist in nums?
 Can you solve the problem in linear runtime complexity?
 -----------------------------------------------------------------Concept----------------------------------------------------------
 <ul>	METHODS CAN BE USED TO SOLVE ABOVE PROBLEM :-
-	<li>Floyd cycle detection</li>
+	<li>Floyd cycle detection -> That only works correctly if the values in nums can be safely used as next indices.1 ≤ nums[i] ≤ n
+</li>
 	<li>also can be done using set and map</li>
 	<li>binary search</li>
 	<li>bit manipulation</li>
