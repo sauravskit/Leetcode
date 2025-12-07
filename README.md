@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sauravskit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sauravskit/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sauravskit/Leetcode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/sauravskit/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sauravskit/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sauravskit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sauravskit/Leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sauravskit/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sauravskit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/sauravskit/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/sauravskit/Leetcode/tree/master/0792-binary-search) |
 ## Binary Search
