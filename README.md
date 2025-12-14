@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/sauravskit/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sauravskit/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/sauravskit/Leetcode/tree/master/0812-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sauravskit/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sauravskit/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -75,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sauravskit/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sauravskit/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
