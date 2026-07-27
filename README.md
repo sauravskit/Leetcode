@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/sauravskit/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sauravskit/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/sauravskit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/sauravskit/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sauravskit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/sauravskit/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/sauravskit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sauravskit/Leetcode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sauravskit/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sauravskit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
