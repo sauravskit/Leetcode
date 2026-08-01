@@ -2,7 +2,7 @@ class Solution {
     public int pivotIndex(int[] nums) {
         int preSum=0,postSum=0;
         for( int i = 0 ; i<nums.length;i++){
-            for(int j =i+1;j<nums.length;j++){
+            for(int j =nums.length-1;j>i;j--){
                 postSum+=nums[j];
             }
             if(postSum==preSum){
