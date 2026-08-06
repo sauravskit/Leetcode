@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sauravskit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/sauravskit/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sauravskit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/sauravskit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sauravskit/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/sauravskit/Leetcode/tree/master/0792-binary-search) |
 ## Binary Search
@@ -105,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/sauravskit/Leetcode/tree/master/0263-ugly-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sauravskit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
